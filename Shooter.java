@@ -20,7 +20,7 @@ public class Shooter extends JLabel {
 		
 		this.p=p;
 		
-		shot.setIcon(new ImageIcon("Images\\shot.png"));
+		shot.setIcon(new ImageIcon("shot.png"));
 		shot.setBounds(x+45, 480, 10, 400);
 		shot.setVisible(false);
 		
